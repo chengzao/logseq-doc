@@ -40,9 +40,6 @@
  {:block/name "mirror",
   :block/created-at 1653740566373,
   :block/updated-at 1653740566373}
- {:block/name "new page: docker",
-  :block/created-at 1653746291161,
-  :block/updated-at 1653746291161}
  {:block/name "now",
   :block/created-at 1653307065593,
   :block/updated-at 1653307065593}
